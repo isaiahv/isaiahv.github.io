@@ -1,0 +1,9 @@
+body{
+	color:red;
+	background-color: lime;
+	font-family: "Brush Script MT", cursive;
+}
+
+iframe {
+	width: 100%;
+}
